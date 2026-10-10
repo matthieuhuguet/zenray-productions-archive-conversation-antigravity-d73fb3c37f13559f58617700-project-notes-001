@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "conversation-antigravity-d73fb3c37f13559f58617700",
- "scannedAt": "2026-10-10T14:49:45.384Z",
+ "scannedAt": "2026-10-10T20:56:26.842Z",
  "conversations": [
   {
    "projectId": "conversation-antigravity-d73fb3c37f13559f58617700",
@@ -15,8 +15,8 @@
    "provider": "codex",
    "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
    "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-10T14:49:44.659Z",
-   "bytes": 920198993,
+   "updatedAt": "2026-10-10T18:43:51.851Z",
+   "bytes": 1030623008,
    "boundProject": "zenray-assets-v2"
   },
   {
@@ -26,12 +26,12 @@
    "work": 0,
    "prompts": 0,
    "first": null,
-   "last": "2026-10-10T14:42:49.195485+00:00",
+   "last": "2026-10-10T14:43:55.474Z",
    "conversationId": "gemini:85fe9505-a470-4c1b-9ac6-273514888c28",
    "provider": "gemini",
    "sessionId": "85fe9505-a470-4c1b-9ac6-273514888c28",
-   "title": "Dans Gallery, on va créer une galerie qui s'appelle Artists. Tu vas prendre tous les artistes que j'avais déjà homologués à la fois sur Crea",
-   "updatedAt": "2026-10-10T14:42:49.195485+00:00",
+   "title": "Conversation Gemini 85fe9505",
+   "updatedAt": "2026-10-10T14:43:55.474Z",
    "bytes": 9240576,
    "boundProject": "conversation-antigravity-d73fb3c37f13559f58617700"
   }
