@@ -43,3 +43,15 @@
 > continue  (10 October 2026, 16:23:57 +0200)
 >
 >  until the end (10 October 2026, 16:23:57 +0200)
+
+## 10 October 2026, 16:42:49 +0200 : Iteration
+
+<!-- feedback-event:2fd717321da4bd727a6d7d10f2cdfee98a926b9ec3bcce64d6a27bf01134856f (10 October 2026, 16:42:49 +0200) -->
+- Project: conversation-antigravity-d73fb3c37f13559f58617700; kind: iteration. (10 October 2026, 16:42:49 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/85fe9505-a470-4c1b-9ac6-273514888c28.db. (10 October 2026, 16:42:49 +0200)
+
+> ### Résumé des 3 dernières entrées de [/Users/zenray/.claude/PROGRESS.md](/Users/zenray/.claude/PROGRESS.md) (10 October 2026, 16:42:49 +0200)
+> 1. **2026-10-10 15:46** : Audit complet des composants du dossier Height (`v47`) de la scène Copernicus dans [/Users/zenray/Create/Build/Productions/Houdini/Copernicus/PaintedWood/painted_wood_v56.hipnc](/Users/zenray/Create/Build/Productions/Houdini/Copernicus/PaintedWood/painted_wood_v56.hipnc) et génération du rapport d'audit détaillé. (10 October 2026, 16:42:49 +0200)
+> 2. **2026-10-10 16:07** : Recalibration chirurgicale du graphe Copernicus `/stage/geo1/copnet1` vers [/Users/zenray/Create/Build/Productions/Houdini/Copernicus/PaintedWood/painted_wood_v57.hipnc](/Users/zenray/Create/Build/Productions/Houdini/Copernicus/PaintedWood/painted_wood_v57.hipnc) pour les écailles de peinture écaillée. (10 October 2026, 16:42:49 +0200)
+> 3. **2026-10-10 16:28** : Diagnostic de `crack_primary` sur [/Users/zenray/Create/Build/Productions/Houdini/Copernicus/PaintedWood/painted_wood_v57.hipnc](/Users/zenray/Create/Build/Productions/Houdini/Copernicus/PaintedWood/painted_wood_v57.hipnc) et identification du paramètre `flow_warp` sur le nœud Voronoi. (10 October 2026, 16:42:49 +0200)
+> - **Prochain noté** : Basculer `flow_warp` de `crack_primary` à `0.0` (ou déconnecter l'entrée 2) dans Houdini pour vérifier (10 October 2026, 16:42:49 +0200)
