@@ -1,0 +1,35 @@
+# conversation-antigravity-d73fb3c37f13559f58617700 : project feedback, append only (10 October 2026, 13:28:28 +0200)
+
+## 10 October 2026, 13:28:28 +0200 : Log
+
+<!-- feedback-event:dc7329029a6f9849707892be71f31cdafc07fa7a3ae76998b59895851af628f1 (10 October 2026, 13:28:28 +0200) -->
+- Project: conversation-antigravity-d73fb3c37f13559f58617700; kind: log. (10 October 2026, 13:28:28 +0200)
+
+> Project initialized: Gallery Artists ArtStation. Workshop: /Users/zenray/.claude/tmp/tmp-conversation-antigravity-d73fb3c37f13559f58617700. (10 October 2026, 13:28:28 +0200)
+
+## 10 October 2026, 13:27:12 +0200 : Prompt
+
+<!-- feedback-event:cf41e3c76bcc8feff207214e7cc2760f1571a3de002f4d227eaa59b8d5eba6a6 (10 October 2026, 13:27:12 +0200) -->
+- Project: conversation-antigravity-d73fb3c37f13559f58617700; kind: prompt. (10 October 2026, 13:27:12 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/85fe9505-a470-4c1b-9ac6-273514888c28.db. (10 October 2026, 13:27:12 +0200)
+
+> Dans Gallery, on va créer une galerie qui s'appelle Artists. Tu vas prendre tous les artistes que j'avais déjà homologués à la fois sur Create dans le dossier référence ainsi que dans Mathieu 1.md ou dans le contexte de Claude.md, il doit y avoir tous les artistes que je suivais sur ArtStation. Tu vas me rediriger directement vers leur profil portfolio sur ArtStation via cette vue. Normalement, dans la vue soit To Do soit Design, il doit y avoir déjà Erwan Godichon, donc tu peux vérifier, et ensuite tu me donnes tous les artistes. Il faudra faire une vue dépliante sur tous les projets. Par exemple, tu cliques sur un artiste et tu peux déplier sur tous ses projets qu'il a réalisés sur ArtStation via une interface, un peu comme un pop-up widget dont on pourrait scroller le contenu.  (10 October 2026, 13:27:12 +0200)
+>
+>   (10 October 2026, 13:27:12 +0200)
+>
+>  l'UI doit être dans le style du site et le pop over doit être agrandissable si possible ;) (10 October 2026, 13:27:12 +0200)
+
+## 10 October 2026, 13:28:45 +0200 : Prompt
+
+<!-- feedback-event:2f5e9cd244ad3c8c04700a50b2ba29923b30043e4fd8695d97143919891c46e6 (10 October 2026, 13:28:45 +0200) -->
+- Project: conversation-antigravity-d73fb3c37f13559f58617700; kind: prompt. (10 October 2026, 13:28:45 +0200)
+
+> Dans Gallery, on va créer une galerie qui s'appelle Artists. Tu vas prendre tous les artistes que j'avais déjà homologués à la fois sur Create dans le dossier référence ainsi que dans Mathieu 1.md ou dans le contexte de Claude.md, il doit y avoir tous les artistes que je suivais sur ArtStation. Tu vas me rediriger directement vers leur profil portfolio sur ArtStation via cette vue. Normalement, dans la vue soit To Do soit Design, il doit y avoir déjà Erwan Godichon, donc tu peux vérifier, et ensuite tu me donnes tous les artistes. Il faudra faire une vue dépliante sur tous les projets. Par exemple, tu cliques sur un artiste et tu peux déplier sur tous ses projets qu'il a réalisés sur ArtStation via une interface, un peu comme un pop-up widget dont on pourrait scroller le contenu. /progress /dont-stop l'UI doit être dans le style du site et le pop over doit être agrandissable si possible ;) (10 October 2026, 13:28:45 +0200)
+
+## 10 October 2026, 14:19:24 +0200 : Prompt
+
+<!-- feedback-event:7f8d1547feb35632ade2efa8ce0593596e6dc23cea66e767802d393ec5d98807 (10 October 2026, 14:19:24 +0200) -->
+- Project: conversation-antigravity-d73fb3c37f13559f58617700; kind: prompt. (10 October 2026, 14:19:24 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/85fe9505-a470-4c1b-9ac6-273514888c28.db. (10 October 2026, 14:19:24 +0200)
+
+> ? (10 October 2026, 14:19:24 +0200)

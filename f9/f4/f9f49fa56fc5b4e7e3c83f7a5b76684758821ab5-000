@@ -1,0 +1,23 @@
+{
+ "schemaVersion": 1,
+ "projectId": "conversation-antigravity-d73fb3c37f13559f58617700",
+ "scannedAt": "2026-10-10T12:34:04.672Z",
+ "conversations": [
+  {
+   "projectId": "conversation-antigravity-d73fb3c37f13559f58617700",
+   "strength": "bound",
+   "lines": 0,
+   "work": 0,
+   "prompts": 0,
+   "first": null,
+   "last": "2026-10-10T12:19:24.117936+00:00",
+   "conversationId": "gemini:85fe9505-a470-4c1b-9ac6-273514888c28",
+   "provider": "gemini",
+   "sessionId": "85fe9505-a470-4c1b-9ac6-273514888c28",
+   "title": "Dans Gallery, on va créer une galerie qui s'appelle Artists. Tu vas prendre tous les artistes que j'avais déjà homologués à la fois sur Crea",
+   "updatedAt": "2026-10-10T12:19:24.117936+00:00",
+   "bytes": 5406720,
+   "boundProject": "conversation-antigravity-d73fb3c37f13559f58617700"
+  }
+ ]
+}
